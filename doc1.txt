@@ -1,5 +1,4 @@
-	
-Any processing of personal data should be lawful and fair. 
+Any processing of personal data of should be lawful and fair.
 It should be transparent to natural persons that personal data concerning them are collected, used, consulted or otherwise processed 
 and to what extent the personal data are or will be processed. The principle of transparency requires that any information and 
 communication relating to the processing of those personal data be easily accessible and easy to understand, and that clear and 

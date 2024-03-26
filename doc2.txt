@@ -1,4 +1,4 @@
 An operator is required to obtain verifiable parental consent before any collection, use, or disclosure of personal information 
-from children, including consent to any material change in the collection, use, or disclosure practices to which the parent has 
+from children , including consent to any material change in the collection, use, or disclosure practices to which the parent has 
 previously consented. An operator must give the parent the option to consent to the collection and use of the child's personal 
 information without consenting to disclosure of his or her personal information to third parties.
