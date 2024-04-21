@@ -1,2 +1,2 @@
 # Retrieval Augmented Generation for Legal Purposes
-RAG Systen for legal purpose question answering  
+RAG System for legal purpose question answering  
