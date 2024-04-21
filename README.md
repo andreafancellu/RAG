@@ -1,1 +1,2 @@
-# Retrieval Augmented Generation
+# Retrieval Augmented Generation for Legal Purposes
+
